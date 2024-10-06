@@ -15,5 +15,33 @@
     .mb-section{
         @apply mb-12;
     }
+
+    
 }
+
+/* custom.css */
+
+/* Definir la keyframes para la animación fadeInUp */
+/* custom.css */
+
+/* Definir la keyframes para la animación fadeInUp */
+@keyframes fadeInUp {
+    from {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  /* Clase para aplicar la animación fadeInUp solo en móviles */
+  @media (max-width: 767px) {
+    .animate-fade-in-up {
+      animation: fadeInUp 1s ease forwards; /* Duración aumentada a 1s */
+    }
+  }
+  
+  
 

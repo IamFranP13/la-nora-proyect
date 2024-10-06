@@ -1,22 +1,22 @@
 [
 	{
-		"title": "residential",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
+			"title": "Ubicación",
+			"description": "Nuestros dúplex están estratégicamente ubicados en La Ñora, Murcia, ofreciendo fácil acceso a servicios esenciales, transporte público y áreas recreativas."
 	},
 	{
-		"title": "bussines",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
+			"title": "Diseño Moderno",
+			"description": "Cada dúplex presenta un diseño contemporáneo con acabados de alta calidad, espacios amplios y luminosos que garantizan confort y funcionalidad."
 	},
-    {
-		"title": "hospitality",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
+	{
+			"title": "Infraestructura y Servicios",
+			"description": "La Ñora cuenta con una infraestructura bien desarrollada, incluyendo centros educativos, instalaciones sanitarias y comercios locales que facilitan tu día a día."
 	},
-    {
-		"title": "industrial",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
+	{
+			"title": "Eficiencia Energética",
+			"description": "Nuestros dúplex están diseñados con tecnología de construcción sostenible, garantizando eficiencia energética y reduciendo el impacto ambiental."
 	},
-    {
-		"title": "educational",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
+	{
+			"title": "Entorno Natural",
+			"description": "Disfruta de un entorno natural privilegiado en La Ñora, con parques, áreas verdes y espacios al aire libre perfectos para el esparcimiento y la relajación."
 	}
 ]
