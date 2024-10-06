@@ -11,26 +11,15 @@ import Wrapper from "../components/utils/Wrapper.astro";
 import BaseLayout from "../layout/BaseLayout.astro";
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Luxury Architect</title>
-  </head>
-  <body>
-    <BaseLayout>
-      <Wrapper>
-        <Header />
-        <Hero />
-        <Summary />
-        <Portfolio />
-        <About />
-        <Team />
-        <Contact />
-        <Footer />
-      </Wrapper>
-    </BaseLayout>
-  </body>
-</html>
+<BaseLayout>
+  <Wrapper>
+    <Header />
+    <Hero />
+    <Summary />
+    <Portfolio />
+    <About />
+    <Team />
+    <Contact />
+    <Footer />
+  </Wrapper>
+</BaseLayout>
